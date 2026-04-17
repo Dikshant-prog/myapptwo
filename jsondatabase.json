@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "fullname": "Rohan",
+      "course": "React",
+      "email": "dfsf@gmail.com",
+      "phone": "11223344",
+      "password": "hhhhhh",
+      "id": "FdBBZJXlVHQ"
+    },
+    {
+      "fullname": "ABC",
+      "course": "React",
+      "email": "dfsf@gmail.com",
+      "phone": "9191919191",
+      "password": "98765",
+      "id": "OQs9oW8SdHU"
+    }
+  ],
+  "user": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
